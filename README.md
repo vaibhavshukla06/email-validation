@@ -1,4 +1,4 @@
-### Email Validation In HTML CSS & JavaScript
+## Email Validation In HTML CSS & JavaScript
 
 - It contains four color states (default, focused, completed & error).
 - Developed first with the Mobile First methodology, then for desktop.
